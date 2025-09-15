@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jai Kashyap
 - 👀 I’m interested in computer science, machine learning, artificial intelligence, and NLP
-- 🌱 I’m currently a freshman at Georgia Tech studying computer science
+- 🌱 I’m currently a sophomore at Georgia Tech studying computer science
 - 📫 How to reach me: jaitkash@gmail.com
 
 <!---
